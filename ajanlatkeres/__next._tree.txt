@@ -1,5 +1,5 @@
-:HL["/alcufer-2otawhfv/_next/static/chunks/28350a6r0d8f2.css","style"]
+:HL["/alcufer-2otawhfv/_next/static/chunks/1kva0z4mbnbvf.css","style"]
 :HC["/",""]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"ajanlatkeres","h":64,"c":"$Q2"}]]
-0:{"b":"UouUbZo7eik53oXSsgFzy","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"wuLHP1kYYFbN8AZMOzUg6","t":{"t":{"s":"","h":16,"c":"$Q1"}}}

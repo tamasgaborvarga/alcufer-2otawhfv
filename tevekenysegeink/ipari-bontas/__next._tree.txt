@@ -1,6 +1,6 @@
-:HL["/alcufer-2otawhfv/_next/static/chunks/28350a6r0d8f2.css","style"]
+:HL["/alcufer-2otawhfv/_next/static/chunks/1kva0z4mbnbvf.css","style"]
 :HC["/",""]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"ipari-bontas","s":[]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"tevekenysegeink","h":131136,"c":"$Q2"}]]
-0:{"b":"UouUbZo7eik53oXSsgFzy","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
+0:{"b":"wuLHP1kYYFbN8AZMOzUg6","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
