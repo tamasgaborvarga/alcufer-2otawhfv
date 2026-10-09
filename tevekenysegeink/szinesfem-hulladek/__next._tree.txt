@@ -1,6 +1,6 @@
-:HL["/alcufer-2otawhfv/_next/static/chunks/0q1l99974e_az.css","style"]
+:HL["/alcufer-2otawhfv/_next/static/chunks/1tek_0jv95qg8.css","style"]
 :HC["/",""]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"szinesfem-hulladek","s":[]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"tevekenysegeink","h":131136,"c":"$Q2"}]]
-0:{"b":"xvkmC-bKzBhj-YsoGeGd-","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
+0:{"b":"vKxVDbRBcMRO3SKdYCNvG","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
